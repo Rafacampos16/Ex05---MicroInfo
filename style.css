@@ -1,0 +1,16 @@
+.img-h  {
+    height: 25vh;
+    background-image: url(https://picsum.photos/700/300);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+p{
+    text-align: justify;
+}
